@@ -1,0 +1,10 @@
+.accordion-button::after {
+    filter: invert(1);
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav {
+    color: white;
+    background-color: rgb(150, 7, 255, 1);
+    border-radius: 10px;
+}
